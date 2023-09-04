@@ -10,6 +10,11 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.1",
+    "primeflex": "^3.3.1",
+    "primeicons": "^6.0.1",
+    "primevue": "^3.33.0",
     "vue": "^3.3.4",
     "vue-router": "^4.2.4"
   },
@@ -19,6 +24,7 @@
     "@vue/eslint-config-prettier": "^8.0.0",
     "eslint": "^8.46.0",
     "eslint-plugin-vue": "^9.16.1",
+    "miragejs": "^0.1.47",
     "prettier": "^3.0.0",
     "vite": "^4.4.9"
   }

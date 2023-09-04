@@ -1,15 +1,7 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="w-full p-3">
+    <div class="card flex shadow-1 p-2 justify-content-center">
+      This is a sample that using PrimeVue for the Data Table with sorting functionality.
+    </div>
   </div>
 </template>
-
-<style>
-@media (min-width: 1024px) {
-  .about {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-  }
-}
-</style>
